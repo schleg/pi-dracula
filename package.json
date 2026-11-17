@@ -1,0 +1,8 @@
+{
+  "name": "pi-dracula",
+  "keywords": ["pi-package"],
+  "license": "MIT",
+  "pi": {
+    "themes": ["./dracula.json"]
+  }
+}

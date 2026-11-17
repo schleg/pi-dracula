@@ -8,6 +8,14 @@ If you are a git user, you can install the theme and keep up to date by cloning 
 git clone https://github.com/dracula/pi.git
 ```
 
+#### Install using pi
+
+Install the theme directly as a pi package with the `pi` package manager:
+
+```bash
+pi install git:github.com/dracula/pi-coding-agent
+```
+
 #### Install manually
 
 Download using the [GitHub `.zip` download](https://github.com/dracula/pi/archive/main.zip) option and unzip them.
